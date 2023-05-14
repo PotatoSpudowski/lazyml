@@ -1,0 +1,5 @@
+build/
+env/
+.*_cache/
+*__pycache__/
+*.so
